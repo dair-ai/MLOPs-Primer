@@ -14,7 +14,7 @@
 
 ## Courses
 
-**Full Stack Deep Learning** - this course shares best practices for the stack stack; topics range from problem selection to dataset management to monitoring.
+**Full Stack Deep Learning** - this course shares best practices for the full stack; topics range from problem selection to dataset management to monitoring.
 
 🔗 https://fullstackdeeplearning.com/
 
