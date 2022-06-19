@@ -6,18 +6,27 @@ While still in its infancy, MLOps has attracted machine learning engineers and s
 
 With every new paradigm comes new challenges and opportunities to learn. In this post, I highlight a few of the resources I am using to upskill and inform myself on the latest in the world of MLOps. I have listed a few educational resources as a start but I plan to build this out as a more comprehensive primer for the future. The primer will include emerging tools for MLOps, research, use cases, and best practices focusing on technical details while still making it accessible to every ML researcher and practitioner regardless of the level of experience.
 
-## Introduction
+## Books
+
 **Introducing MLOps** - One of the best places to get a high-level introduction of the MLOps space is in the book “Introducing MLOps” by Mark Treveil and the Dataiku team.
 
 🔗 https://pages.dataiku.com/oreilly-introducing-mlops
 
+**Designing Machine Learning Systems (by Chip Huyen)** - discusses a holistic approach to designing ML systems that focus on many important aspects of maintaining ML systems in production.
+
+🔗 https://learning.oreilly.com/library/view/designing-machine-learning/9781098107956/
+
 ## Courses
 
-🚀 MLOps course by Goku Mohandas - a series of lessons teaching how to apply ML to build production-grade products.
+**Full Stack Deep Learning** - this course shares best practices for the stack stack; topics range from problem selection to dataset management to monitoring.
+
+🔗 https://fullstackdeeplearning.com/
+
+**MLOps course (by Goku Mohandas)** - a series of lessons teaching how to apply ML to build production-grade products.
 
 🔗 https://madewithml.com/
 
-🎓 Machine Learning Engineering for Production (MLOps) Specialization - a new specialization by deeplearning.ai on machine learning engineering for production (MLOPs)
+**Machine Learning Engineering for Production (MLOps) Specialization** - a new specialization by deeplearning.ai on machine learning engineering for production (MLOPs)
 
 🔗 https://www.deeplearning.ai/program/machine-learning-engineering-for-production-mlops/
 
@@ -36,6 +45,10 @@ There are several efforts to keep the community informed on the latest developme
 **MLOps Community** - A place to have discussions about MLOps.
 
 🔗 https://mlops.community/
+
+**MLOps Zoomcamp** - teaches practical aspects of productionizing ML services. 
+
+🔗 https://github.com/DataTalksClub/mlops-zoomcamp
 
 ## Blogs and Guides
 
