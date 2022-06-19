@@ -4,9 +4,9 @@
 
 ## Books
 
-**Introducing MLOps** - One of the best places to get a high-level introduction of the MLOps space is in the book “Introducing MLOps” by Mark Treveil and the Dataiku team.
+**Introducing MLOps** - One of the best places to get a high-level introduction of the MLOps space is in the book “Introducing MLOps” by Mark Treveil et al.
 
-🔗 https://pages.dataiku.com/oreilly-introducing-mlops
+🔗 https://www.oreilly.com/library/view/introducing-mlops/9781492083283/
 
 **Designing Machine Learning Systems (by Chip Huyen)** - discusses a holistic approach to designing ML systems that focus on many important aspects of maintaining ML systems in production.
 
