@@ -59,3 +59,7 @@ There are several efforts to keep the community informed on the latest developme
 **MLOps: From Model-centric to Data-centric AI** - A recent talk on MLOps by Andrew Ng focuses on the discussion of moving from model-centric approaches to data-centric approaches for machine learning.
 
 🔗 https://youtu.be/06-AZXmwHjo
+
+---
+
+This collection is far from exhaustive but it should provide a good foundation to start learning about MLOPs. Reach out on [Twitter](https://twitter.com/omarsar0) if you have any questions.
