@@ -12,6 +12,14 @@
 
 🔗 https://learning.oreilly.com/library/view/designing-machine-learning/9781098107956/
 
+## Papers
+
+**Machine Learning Operations (MLOps): Overview, Definition, and Architecture**
+
+A concise overview of MLOPs. 
+
+🔗 https://arxiv.org/abs/2205.02302
+
 ## Courses
 
 **Full Stack Deep Learning** - this course shares best practices for the full stack; topics range from problem selection to dataset management to monitoring.
