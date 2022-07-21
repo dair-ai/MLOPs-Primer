@@ -66,6 +66,7 @@ There are several efforts to keep the community informed on the latest developme
 A concise overview of MLOPs. 
 
 🔗 https://arxiv.org/abs/2205.02302
+
 ---
 
 This collection is far from exhaustive but it should provide a good foundation to start learning about MLOPs. Reach out on [Twitter](https://twitter.com/omarsar0) if you have any questions.
