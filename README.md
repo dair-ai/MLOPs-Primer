@@ -45,6 +45,10 @@ There are several efforts to keep the community informed on the latest developme
 
 🔗 https://github.com/DataTalksClub/mlops-zoomcamp
 
+**Awesome MLOps** - A curated list of awesome MLOps tools.
+
+🔗 https://github.com/kelvins/awesome-mlops
+
 ## Courses
 
 **Full Stack Deep Learning** - this course shares best practices for the full stack; topics range from problem selection to dataset management to monitoring.
